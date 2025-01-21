@@ -1,6 +1,8 @@
 # hello-team
 
-안녕하세요 조성진입니다. 
+## 조성진 
+닉네임: Jocastle
+좋아하는 게임: Path of Exile
 <img src ="./Image/Profile_Jocastle.png" width ="100" height="100">
 
 안녕하세요. 윤건입니다.
