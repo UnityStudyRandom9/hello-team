@@ -1,4 +1,4 @@
-class Login
+class Login_Jihoon
 {
     public void Login()
     {
