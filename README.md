@@ -8,4 +8,6 @@
 
 
 박지훈 다녀감
-![지훈 프로필](./Image/Profile_Jihoon.png)
+<img src="./Image/Profile_Jihoon.png", height="100x", width="100px" />
+
+안녕하세요. 유승완입니다.
