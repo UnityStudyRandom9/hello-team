@@ -9,6 +9,8 @@
 ##### 프로필 이미지: 
 <img src ="./Image/Profile_Jocastle.png" width ="100" height="100">
 
+* * *
+
 ## 윤건
 ##### 닉네임 : YoonGun12
 ##### 좋아하는 게임:
@@ -25,8 +27,8 @@
 > Sea of Thieves
 ##### 프로필 이미지
 <img src="./Image/YoonGunProfile.jpg" width = "100" height = "100">
-<hr>
 
+* * *
 
 ## 홍승표
 ##### 닉네임: puplejar
