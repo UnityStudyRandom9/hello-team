@@ -27,7 +27,7 @@
 >
 > Sea of Thieves
 ##### 프로필 이미지
-<img src="./Image/YoonGunProfile.jpg" width = "100" height = "100">
+<img src="./Image/Profile_YoonGun12.jpg" width = "100" height = "100">
 
 * * *
 
