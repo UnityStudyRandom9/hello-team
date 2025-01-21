@@ -1,6 +1,6 @@
 # hello-team
 
-<<<<<<< HEAD
+
 ## 조성진 
 닉네임: Jocastle98
 좋아하는 게임: Path of Exile
