@@ -1,8 +1,8 @@
 # hello-team
 
 안녕하세요 조성진입니다. 
-![jocastle](./Image/Profile_Jocastle.png)
 <img src ="./Image/Profile_Jocastle.png" width ="100" height="100">
+
 안녕하세요. 윤건입니다.
 
 #Hong in here!
