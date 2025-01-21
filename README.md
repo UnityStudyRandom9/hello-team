@@ -15,7 +15,7 @@
 #Hong in here!
 
 ## 박지훈
-닉네임: pianoop 
+닉네임: pianoop  
 좋아하는 게임: 발더스 게이트3, To the moon(지그문트 시리즈)  
 #### 프로필 이미지
 [<img src="./Image/Profile_Jihoon.png" width = "100" height = "100">](https://github.com/pianoop)  
