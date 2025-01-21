@@ -1,0 +1,7 @@
+class Login_ysw4697
+{
+    public void Login()
+    {
+        Debug.Log("Login");
+    }
+}
