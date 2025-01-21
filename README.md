@@ -6,5 +6,6 @@
 
 #Hong in here!
 
-박지훈 다녀감
 
+박지훈 다녀감
+![지훈 프로필](./Image/Profile_Jihoon.png)
