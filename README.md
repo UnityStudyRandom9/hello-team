@@ -7,6 +7,7 @@
 <img src ="./Image/Profile_Jocastle.png" width ="100" height="100">
 
 ## 윤건
+닉네임 : YoonGun12
 ### 좋아하는 게임
 > 엘더스크롤 스카이림
 >
