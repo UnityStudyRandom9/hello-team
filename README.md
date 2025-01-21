@@ -2,7 +2,7 @@
 
 ## 조성진 
 닉네임: Jocastle98
-좋아하는 게임: Path of Exile
+좋아하는 게임: Path of Exile, 토치라이트 인피니티티
 <img src ="./Image/Profile_Jocastle.png" width ="100" height="100">
 
 ## 이름
