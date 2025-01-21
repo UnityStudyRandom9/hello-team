@@ -7,7 +7,7 @@
 #Hong in here!
 
 
-박지훈 다녀감
-<img src="./Image/Profile_Jihoon.png", height="100x", width="100px" />
+박지훈 다녀감  
+<img src="./Image/Profile_Jihoon.png" width = "100" height = "100">
 
 안녕하세요. 유승완입니다.
