@@ -2,7 +2,9 @@ class Login_ysw4697
 {
     public void Login()
     {
-        Debug.Log("Login");
-        Debug.LOg("Login2");
+        Debug.Log("Login_test_1");
+        Debug.LOg("Login2_test_1");
+        
+        Debug.LOg("Login_Test_22");
     }
 }
