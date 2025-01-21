@@ -3,5 +3,6 @@ class Login_ysw4697
     public void Login()
     {
         Debug.Log("Login");
+        Debug.LOg("Login2");
     }
 }
