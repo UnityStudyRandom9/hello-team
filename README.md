@@ -16,4 +16,7 @@
 
 안녕하세요. 유승완입니다.(Test3)
 
-<img src="./Image/Profile_ysw4697.png" width = "100" height = "100">
+닉네임: ysw4697
+좋아하는 게임: 토탈워 워해머3/삼탈워, 붕괴 스타레일, 발게3, 아머드코어6, 엘든링, 젤다야숨/왕눈
+
+프로필 이미지: <img src="./Image/Profile_ysw4697.png" width = "50" height = "50">
