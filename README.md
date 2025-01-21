@@ -4,8 +4,11 @@
 
 <img src ="./Image/Profile_Jocastle.png" width ="100" height="100">
 
-안녕하세요. 윤건입니다.
-
+## 이름
+윤건
+### 좋아하는 게임
+엘더스크롤 스카이림
+#### 프로필 이미지
 <img src="./Image/YoonGunProfile.jpg" width = "100" height = "100">
 
 #Hong in here!
