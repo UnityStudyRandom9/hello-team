@@ -2,7 +2,9 @@
 
 안녕하세요 조성진입니다. 
 
-안녕하세요. 윤건입니다.
+<img src="./Image/YoonGunProfile.jpg" width = "100" height = "100">
+#####안녕하세요. 윤건입니다.
+***
 
 #Hong in here!
 
