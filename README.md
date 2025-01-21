@@ -8,10 +8,21 @@
 
 ## 윤건
 ### 좋아하는 게임
-엘더스크롤 스카이림, FIFA, 발더스게이트3,스타듀밸리, Football Manager, Sea of Thieves
+> 엘더스크롤 스카이림
+
+> FIFA
+
+> 발더스게이트3
+
+> 스타듀밸리
+
+> Football Manager
+
+> Sea of Thieves
 ### 프로필 이미지
 <img src="./Image/YoonGunProfile.jpg" width = "100" height = "100">
-* * *
+<hr>
+
 
 #Hong in here!
 
