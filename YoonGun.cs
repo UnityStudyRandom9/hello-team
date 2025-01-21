@@ -2,6 +2,6 @@ class YoonGun
 {
     public void Gun()
     {
-        Debug.Log("탕");
+        Debug.Log("탕탕");
     }
 }
